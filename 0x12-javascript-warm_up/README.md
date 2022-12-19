@@ -1,5 +1,4 @@
 # Javascript
-## 0x12. JavaScript - Warm up
 
 ## Description
 This is an introductory project on javascript.
